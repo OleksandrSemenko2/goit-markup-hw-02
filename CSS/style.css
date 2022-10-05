@@ -1,0 +1,96 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #212121;
+}
+ul {
+  list-style: none;
+}
+.logo {
+  font-family: raleway, sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.173;
+}
+.logo:hover {
+  color: #212121;
+}
+.logo-web {
+  color: #2196f3;
+}
+.logo-bot {
+  color: white;
+  text-decoration: none;
+  font-family: raleway, sans-serif;
+  font-size: 26px;
+}
+header a {
+  color: #212121;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 2;
+}
+
+header a:hover {
+  color: #2196f3;
+}
+
+h1 {
+  font-size: 44px;
+  text-transform: uppercase;
+  line-height: 1.363;
+}
+h2 {
+  font-size: 36px;
+  line-height: 1.171;
+}
+.place-order {
+  color: white;
+  font-size: 16px;
+  background-color: #2196f3;
+  cursor: pointer;
+  line-height: 1.875;
+}
+.benefits h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 1.172;
+}
+.benefits p {
+  font-size: 14px;
+  color: #757575;
+  line-height: 1.171;
+}
+.team h3 {
+  font-size: 16px;
+  line-height: 1.178;
+}
+.team p {
+  font-size: 16px;
+  line-height: 1.178;
+}
+footer {
+  background-color: #2f303a;
+}
+address a {
+  color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
+  line-height: 1.714;
+}
+address a:hover {
+  color: white;
+}
+.filter button {
+  font-size: 16px;
+  cursor: pointer;
+  line-height: 1.625;
+}
+.portfolio-works h2 {
+  font-size: 18px;
+  line-height: 2;
+}
+.portfolio-works p {
+  font-size: 16px;
+  color: #757575;
+  line-height: 1.875;
+}
